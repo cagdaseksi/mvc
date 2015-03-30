@@ -1,0 +1,6 @@
+C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
